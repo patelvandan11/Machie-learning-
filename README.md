@@ -9,5 +9,5 @@ learn from data.
 
 * types of machine learning 
   * supervised learning 
-  * unsupervised learning 
+  * unsupervised   learning 
   * rainforestment learning
