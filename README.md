@@ -2,6 +2,5 @@
 
 
 ## Instructions
-# Introduction to machine learning 
-
+# Introduction to machine l
  
